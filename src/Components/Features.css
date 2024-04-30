@@ -1,0 +1,41 @@
+.fetures-container{
+    height: fit-content;
+    display: flex;
+    flex-direction: column;
+}
+.box-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.box-container h1{
+    font-family: "Lalezar", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+.box-container .box{
+    max-width: 20%;
+    min-width: 180px;
+    min-height: 200px;
+    max-height: fit-content;
+    margin: 2%;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+.box-container .box h2{
+    font-family: "Lalezar", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+.box-container .box span{
+    font-family: "Urbanist", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size: large;
+}

@@ -1,0 +1,39 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 5%;
+}
+
+.team-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.team-member {
+    background-color: white;
+    width: 200px;
+    margin: 2%;
+    padding: 10px;
+    text-align: center;
+    border-radius: 25px;
+    padding: 20px;
+}
+
+.team-member img {
+    width: 100%;
+    height: auto;
+    border-radius: 50%;
+}
+
+.contact-us{
+    display: flex;
+    justify-content: start;
+}
+
+.contact-us .logos{
+    width: 25px;
+    margin: 0 10px;
+}

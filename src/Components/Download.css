@@ -1,0 +1,33 @@
+.download-container {
+    display: flex;
+    flex-direction: row;
+    height: fit-content; /* Adjust height as needed */
+}
+.image-slider {
+    width: 55vw;
+    overflow: hidden;
+}
+.image-slider img {
+    width: 100%;
+    display: block;
+    transition: transform 0.5s ease;
+}
+.download-panel {
+    width: 45vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 0 5vw;
+}
+.download-btn {
+    font-size: 20px;
+    font-weight: 650;
+    text-decoration: none;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 10px;
+    background-color: #D47631;
+    cursor: pointer;
+    border: none;
+}
