@@ -1,13 +1,13 @@
 import React from "react";
 import "../Components/Team.css"
 
-import team1 from "../Assets/Images/team-1.jpg"
-import team2 from "../Assets/Images/team-2.PNG"
-import team3 from "../Assets/Images/team-3.JPG"
-import team4 from "../Assets/Images/team-4.jpg"
-import team5 from "../Assets/Images/team-5.jpeg"
-import github from "../Assets/Images/github.png"
-import linkedin from "../Assets/Images/linkedin.png"
+import team1 from "../Images/team-1.jpg"
+import team2 from "../Images/team-2.PNG"
+import team3 from "../Images/team-3.JPG"
+import team4 from "../Images/team-4.jpg"
+import team5 from "../Images/team-5.jpeg"
+import github from "../Images/github.png"
+import linkedin from "../Images/linkedin.png"
 
 
 export default function Team(){

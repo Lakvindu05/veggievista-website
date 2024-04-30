@@ -1,13 +1,13 @@
 import React, { useState, useEffect } from 'react';
 import "./Download.css"
 
-import image1 from "../Assets/Images/veggivistaSS1.png"
-import image2 from "../Assets/Images/veggivistaSS2.png"
-import image3 from "../Assets/Images/veggivistaSS3.png"
-import image4 from "../Assets/Images/veggivistaSS4.png"
-import image5 from "../Assets/Images/veggivistaSS5.png"
-import image6 from "../Assets/Images/veggivistaSS6.png"
-import image7 from "../Assets/Images/veggivistaSS7.png"
+import image1 from "../Images/veggivistaSS1.png"
+import image2 from "../Images/veggivistaSS2.png"
+import image3 from "../Images/veggivistaSS3.png"
+import image4 from "../Images/veggivistaSS4.png"
+import image5 from "../Images/veggivistaSS5.png"
+import image6 from "../Images/veggivistaSS6.png"
+import image7 from "../Images/veggivistaSS7.png"
 
 export default function Download() {
     const [currentImageIndex, setCurrentImageIndex] = useState(0);

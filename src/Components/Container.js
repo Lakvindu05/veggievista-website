@@ -1,6 +1,6 @@
 import React from "react";
 import "./Container.css"
-import containerImage from "../Assets/Images/container-image.png"
+import containerImage from "../Images/container-image.png"
 
 export default function Container(){
     return(
