@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/veggievista-website/static/css/main.9450e639.css",
-    "main.js": "/veggievista-website/static/js/main.d5036f4e.js",
+    "main.js": "/veggievista-website/static/js/main.1987d007.js",
     "static/js/453.7ef1d129.chunk.js": "/veggievista-website/static/js/453.7ef1d129.chunk.js",
     "static/media/team-2.PNG": "/veggievista-website/static/media/team-2.94edefe6ddac0e21f90e.PNG",
     "static/media/container-image.png": "/veggievista-website/static/media/container-image.cc917f2a3ef70b61cf02.png",
@@ -21,11 +21,11 @@
     "static/media/logo.svg": "/veggievista-website/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/veggievista-website/index.html",
     "main.9450e639.css.map": "/veggievista-website/static/css/main.9450e639.css.map",
-    "main.d5036f4e.js.map": "/veggievista-website/static/js/main.d5036f4e.js.map",
+    "main.1987d007.js.map": "/veggievista-website/static/js/main.1987d007.js.map",
     "453.7ef1d129.chunk.js.map": "/veggievista-website/static/js/453.7ef1d129.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9450e639.css",
-    "static/js/main.d5036f4e.js"
+    "static/js/main.1987d007.js"
   ]
 }
