@@ -28,7 +28,7 @@ export default function Download() {
             </div>
             <div className="download-panel">
                 <h1>Download now and try out now</h1>
-                <a href="https://drive.google.com/drive/folders/17UcewKpz9Jzm3zzwaGFns7oti3P7YJLt?usp=drive_link" target="_blank" rel="noopener noreferrer">
+                <a href="https://drive.google.com/drive/folders/17UcewKpz9Jzm3zzwaGFns7oti3P7YJLt?usp=sharing" target="_blank" rel="noopener noreferrer">
                     <button className="download-btn">Download app</button>
                 </a>
             </div>
