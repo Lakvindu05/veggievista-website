@@ -10,7 +10,7 @@ export default function Container(){
                 <p>This innovative food-recipes-based application aims to revolutionize the way cooks approach meal planning and preparation. We try to empower our users to reduce food waste and promote healthy eating by suggesting food recipes based on the ingredients they already have on hand.</p>
             </div>
             <div className="imageBox">
-                <img src={containerImage} alt="Container image" />
+                <img src={containerImage} alt="Container-image" />
             </div>
         </div>
     )
